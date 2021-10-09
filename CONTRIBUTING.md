@@ -27,7 +27,7 @@ The frontend code build into "dist" directory. The server (express.js) exposes t
 
 # Can I create a pull request for Uptime Kuma?
 
-Generally, if the pull request is working fine and it do not affect any existing logic, workflow and perfomance, I will merge into the master branch once it is tested.
+Generally, if the pull request is working fine and it does not effect any existing logic, workflow and perfomance, I will merge into the master branch once it is tested.
 
 If you are not sure, feel free to create an empty pull request draft first.
 
@@ -61,7 +61,7 @@ It changed my current workflow and require further studies.
 
 # Project Styles
 
-I personally do not like something need to learn so much and need to config so much before you can finally start the app.
+I personally do not like something you need to learn so much about or need to config so much before you can finally start the app.
 
 - Easy to install for non-Docker users, no native build dependency is needed (at least for x86_64), no extra config, no extra effort to get it run
 - Single container for Docker users, no very complex docker-composer file. Just map the volume and expose the port, then good to go
